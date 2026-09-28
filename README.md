@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐉 Hey, I'm Dragon
+#  Hey, I'm Dragon
 
 **Building Dragon Code — a terminal AI coding agent in Python.**
 
